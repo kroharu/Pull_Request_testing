@@ -3,3 +3,4 @@ This repo was created in order to check the process of creating a pull request i
 Fork created
 Pending pull request
 Creating pull request manual
+Using Light theme
